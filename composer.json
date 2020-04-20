@@ -1,6 +1,6 @@
 {
     "name": "persiliao/environ-ide-helper",
-    "description": "IDE helper for environ",
+    "description": "IDE helper for PHP's environ extension",
     "type": "library",
     "license": "Apache-2.0",
     "keywords": [
