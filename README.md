@@ -1,13 +1,12 @@
 # Envrion IDE Helper
 
-Add IDE helper for the **environ**
+Add IDE helper for PHP's **[ext-environ](https://www.github.com/persiliao/environ)** extension
 
 ## Install
 
 You can add it by `composer`:
 
 ```bash
-# use latest code
 composer require persiliao/environ-ide-helper
 ```
 
