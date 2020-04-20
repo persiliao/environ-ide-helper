@@ -1,0 +1,28 @@
+{
+    "name": "persiliao/environ-ide-helper",
+    "description": "IDE helper for environ",
+    "type": "library",
+    "license": "Apache-2.0",
+    "keywords": [
+        "php",
+        "environ",
+        "ide-helper"
+    ],
+    "support": {
+        "source": "https://github.com/persiliao/environ"
+    },
+    "authors": [
+        {
+            "name": "PersiLiao",
+            "email": "xiangchu.liao@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-environ": ">=1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PersiLiao\\": "src/"
+        }
+    }
+}
