@@ -8,6 +8,13 @@ namespace PersiLiao;
  */
 class Environ
 {
+
+    const PRODUCTION = 'production';
+    const PRE_RELEASE = 'prerelease';
+    const GRAY = 'gray';
+    const TEST = 'test';
+    const DEVELOPMENT = 'development';
+    const LOCAL = 'local';
     /**
      * Return php.ini -> environ.name
      *
